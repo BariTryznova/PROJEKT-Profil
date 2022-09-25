@@ -17,3 +17,43 @@ html { box-sizing: border-box; }
 body {
 	background-color: #bdc3c7;
 }
+
+.profil {
+	background-color: #31363b;
+	width: 300px;
+	margin: 40px 0 0 700px;
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	box-shadow: grey 4px 6px 20px; 
+}
+
+.foto {
+	width: 300px;
+}
+
+.obsah {
+	padding: 30px 20px 20px 20px;
+	font-size: 15px;
+}
+
+.hlavicka {
+	position: relative;
+}
+
+.logo {
+	position: absolute;
+	left: 210px;
+	top: 170px;
+	background-color: #b92e81;
+	border-radius: 50px;
+	width: 60px;
+	height: 60px;
+	box-shadow: black 3px 3px 15px; 
+}
+
+.jmeno {
+	font-size: 25px;
+	margin-top: 0;
+}
+
+
